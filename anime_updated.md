@@ -1,5 +1,5 @@
 | 原始标签 | 名称 | 描述 | 外部链接 | 画廊数 |
-| -------- | ---- | ---- | -------- |
+| -------- | ---- | ---- | -------- | -- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于`doujinshi`分类。 | 67410 |
 | kantai collection | ![舰C图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/kantai%20collection.webp)舰队Collection | 《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）是由日本同人社团C2机关开发运营、角川集团投资、由DMM.com提供游戏平台的主要以旧日本海军舰船拟人为题材的收集养成卡牌赌博类网页游戏。<br>![图](https://ehgt.org/d5/4c/d54cf38acf7115b65c8e9ae6496b85a7d3cd38de-701265-1416-2000-jpg_l.jpg) | 15806 |
 | the idolmaster | ![偶像大师图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/idolmaster.webp)偶像大师 | ![LOGO](https://idolmaster-official.jp/assets/img/logo.png)<br>**官网贺图**<br><br>由南梦宫及之后的万代南梦宫所创的电子游戏系列，作品主要结合了养成模拟和节奏游戏元素。<br>玩家多扮演制作人，带领艺人事务所偶像走向成名之路。自2005年首部作品在街机推出以来，<br>系列已有包括社交游戏在内的多款游戏。 | 13912 |
