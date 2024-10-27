@@ -123,7 +123,6 @@
 | queens blade | 女王之刃 |  |  |
 | persona 4 | 女神异闻录4 |  |  |
 | kirakira precure a la mode | 光之美少女：食尚甜心 | 《光之美少女：食尚甜心》（日语：キラキラ☆プリキュアアラモード）是由东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十四作，属第十二代光之美少女。2017年2月5日于朝日放送和朝日电视台播放。<br><br>![动画海报](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [HP](https://www.toei-anim.co.jp/tv/precure_alamode/) |
-| the elder scrolls | 上古卷轴 | 老头滚动条 ![图](https://ehgt.org/e0/e0/e0e0bc963d82aa0e34be99f34193a005d0e7430a-319141-1920-1080-jpg_250.jpg) |  |
 | ano hi mita hana no namae wo bokutachi wa mada shiranai | 我们仍未知道那天所看见的花的名字。 | 又译为“未闻花名”，日本官方简称“那朵花”<br>![图](https://ehgt.org/b9/82/b982e8d3a269a0a2aec6706368054b49e41aa83e-1003852-2000-1417-jpg_l.jpg)![图](https://ehgt.org/82/69/826926e8c503e92084baaff53688aa4bc5acc1c7-2122976-2115-3031-jpg_l.jpg) |  |
 | puella magi madoka magica side story magia record | 魔法纪录 魔法少女小圆外传 | 《魔法纪录 魔法少女小圆外传》（日语：マギアレコード 魔法少女まどか☆マギカ外伝，简称“マギレコ”），简称“魔法纪录”，又译“魔法记录”，是改编自电视动画《魔法少女小圆》的智能手机角色扮演游戏。是由f4samurai制作、Aniplex营运。于2017年8月22日上线。 | [维基百科](https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳) (\*) |
 | komi-san wa komyushou desu. | 古见同学有交流障碍症 | 《古见同学有交流障碍症》（日语：古見さんは、コミュ症です）是日本漫画家小田智仁所创作的校园搞笑漫画，于2016年开始在小学馆周刊少年Sunday杂志第25期开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/古見同學有交流障礙症) (\*) |
