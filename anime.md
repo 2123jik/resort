@@ -11,7 +11,7 @@
 | granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由`g:cygames`发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。<br>![图](# "https://ehgt.org/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg")![图](# "https://ehgt.org/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg") |  |
 | to love-ru | 出包王女 | To LOVEる -とらぶる-<br>![出包王女](# "https://ehgt.org/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg")![图](https://ehgt.org/4b/db/4bdb998c60aca38332bdbb28360d72d631d36c37-343520-1134-1600-jpg_l.jpg)![图](# "https://ehgt.org/6c/83/6c83940f7cb6bc7838aaa1b88a71a899c3682463-1602431-1130-1600-jpg_l.jpg")![图](# "https://ehgt.org/ce/1e/ce1ecd136d0eb869f3d01582f2cdfd7b15802779-298206-1132-1600-jpg_l.jpg") |  |
 | mahou shoujo lyrical nanoha | 魔法少女奈叶 | ![图](# "https://ehgt.org/b5/0b/b50b1a2d8a7443f70f56441d2db45ce4c6ad7ee5-8618925-2104-3000-png_l.jpg")![图](# "https://ehgt.org/a0/b6/a0b6ef89c8aa99b60e9b9cc4d05073ecde8c3c32-303480-1161-1649-jpg_l.jpg") |  |
-| gochuumon wa usagi desu ka | 请问您今天要来点兔子吗？ | <br>![点兔](https://ehgt.org/b3/1e/b31eda4c064a25c49e2df84acce9b7999d3f318d-2304567-2477-3500-jpg_l.jpg)![图](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
+| gochuumon wa usagi desu ka | 请问您今天要来点兔子吗？ | 黄图×点兔，两大萝莉控天堂<br>![点兔](https://ehgt.org/b3/1e/b31eda4c064a25c49e2df84acce9b7999d3f318d-2304567-2477-3500-jpg_l.jpg)![图](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
 | princess connect | 公主连结Re:Dive | 《公主连结 Re:Dive》（日语：プリンセスコネクト！Re:Dive）是一款由`g:cygames`所制作的奇幻风格角色扮演手机游戏，前身为2015年至2016年间营运的《公主连结》。本游戏除了在日本上市外，也计划与海外业者推出包含繁体中文、简体中文、韩文等版本。 | [维基百科](https://zh.wikipedia.org/wiki/超異域公主連結_Re:Dive) (\*) |
 | cardcaptor sakura | 魔卡少女樱 | 《魔卡少女樱》（カードキャプターさくら，Cardcaptor Sakura）是由日本漫画团队`clamp`创作的漫画作品，以魔法少女作为题材。<br>![图](https://ehgt.org/23/68/2368eddf29ed93847a2cf6d2dbf2ff16d46c1107-142448-785-1133-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/百變小櫻) |
 | fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](# "https://ehgt.org/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg")![图](# "https://ehgt.org/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg") |  |
@@ -71,76 +71,48 @@
 | re zero kara hajimeru isekai seikatsu | Re：从零开始的异世界生活 | ![Re0](# "https://ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_250.jpg") |  |
 | punishing gray raven | 战双帕弥什 |  <br>战双帕尼尼<br>![图](https://zh.moegirl.org.cn/File:%E6%88%98%E5%8F%8C%E5%B8%95%E5%B0%BC%E5%B0%BC%E5%B0%81%E9%9D%A2_Bilibili.jpg)| [萌娘百科](https://zh.moegirl.org.cn/战双帕弥什) |
 | heartcatch precure | 光之美少女：甜蜜天使！ | 《光之美少女：甜蜜天使！》（ハートキャッチプリキュア！），是由东堂泉所创作的魔法少女动画作品，<br>为“光之美少女系列”的第七作，属第五代光之美少女。于2010年2月7日起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/hc_precure/) |
-| elsword | 艾尔之光 | 《艾尔之光》（韩语：엘소드，英语：Elsword）是韩国游戏公司KOG Studios研发的一款奇幻历险大型多人在线角色扮演游戏，主打赛璐璐风格横向卷轴的动作游戏，同时也是《永恒冒险》的重制版及姊妹作。 | [维基百科](https://zh.wikipedia.org/wiki/艾爾之光) (\*) |
 | mamono musume zukan | 魔物娘图鉴 |  |  |
 | shakugan no shana | 灼眼的夏娜 | ![图](https://ehgt.org/fc/2f/fc2fb0551dfaf85ed84a5766afd68dfba3c4ac5f-505542-1280-1280-jpg_l.jpg)![图](https://ehgt.org/c0/d3/c0d3764a66fa43c51f6d12b26ae35c6c7ccab754-2101793-1770-2500-jpg_l.jpg)![图](https://ehgt.org/2e/3b/2e3b64854752c3c2cd79fd9e564a85833c660e98-5637004-2134-3031-jpg_l.jpg) |  |
 | amagi brilliant park | 甘城光辉游乐园 | ![图](# "https://ehgt.org/67/6b/676b840b033812a59a8db54a8e864524049915ac-7104563-4294-2999-jpg_250.jpg")![图](https://ehgt.org/d4/13/d41375f1cef858307da3d3eb6cb6be1b57bbd2b0-863646-1597-2276-jpg_l.jpg) |  |
-| resident evil | 生化危机 | 台湾译作“恶灵古堡”，由日本卡普空公司推出，以恐怖惊悚与第三人称射击为主要内容。 |  |
 | dokidoki precure | 心跳！光之美少女 | 《心跳！光之美少女》（ドキドキ！プリキュア）是由东堂泉所创作的魔法少女动画作品、<br>“光之美少女系列”第十作，属第八代光之美少女，2013年2月3日开始在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/dokidoki_precure/) |
 | spy x family | 间谍过家家 | 《SPY×FAMILY间谍家家酒》（日语：SPY×FAMILY）是由日本漫画家远藤达哉所创作的漫画，在2019年3月25日起定期连载。本作叙述一名身为间谍的男性、实际工作是杀手的女性，以及一个能读心的超能力者女孩，三人互相隐瞒真实身分所组成的虚假家庭间的家庭喜剧。《SPY×FAMILY间谍家家酒》在2020年版的《这本漫画真厉害！》赢得男生篇第一名。2022年4月销量累计突破1600万册。 | [萌娘百科](https://zh.moegirl.org.cn/间谍过家家) [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
-| steven universe | 史帝芬宇宙 |  |  |
 | watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/天使降臨到我身邊！) (\*) |
-| aikatsu | 偶活学园！ | 《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。 | [维基百科](https://zh.wikipedia.org/wiki/Aikatsu！偶像活動！) [萌娘百科](https://zh.moegirl.org.cn/偶活学园!系列) (\*) |
 | onii-chan wa oshimai | 别当欧尼酱了！ | ![cover](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png)<br><br>《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），<br>是由日本漫画家猫豆腐创作的同人性转喜剧漫画。<br>作品最初在日本插画网站pixiv连载，后niconico静画也同步更新。<br>2018年1月27日作者自费出版本作的繁体中文电子版，并提供方便简体中文用户购买的方式。<br>作者曾经授权布卡漫画连载简体中文电子版，布卡漫画破产后改在bilibili漫画继续连载。<br>2018年6月27日起由一迅社进行商业化出版单行本。2019年6月号开始在《月刊ComicREX》连载。<br>截止2022年12月，商业版累计发行册数突破100万部。<br>改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。 | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
-| the powerpuff girls | 飞天小女警 |  |  |
-| tera | 神谕之战 |  |  |
-| lilo and stitch | 星际宝贝 |  | [百度百科](https://baike.baidu.com/item/星际宝贝/6416750) |
 | ichigo mashimaro | 草莓棉花糖 | 苺乱扔 |  |
 | dragon quest v | 勇者斗恶龙V 天空的新娘 |  |  |
 | ah my goddess | 我的女神 | 《我的女神》（日语：ああっ女神さまっ；英语：Ah! My Goddess；台湾东立出版社：幸运女神）是由藤岛康介创作的一部漫画，并有动画、小说、游戏等衍生作品。<br>剧情简介：森里萤一是个被霉运之星眷顾的普通大学生，一日无意间拨通了女神事务所的电话，与女神贝露丹迪相遇并许下了“希望你这样的女神一直留在我身边的愿望”，被赶出了集体宿舍后两人的同居生活又会怎么样呢...... | [萌娘百科](https://zh.moegirl.org.cn/我的女神) |
 | sakura taisen | 樱花大战 | 樱花大战系列（罗马拼音Sakura Taisen ，英文名 Sakura Wars）是日本世嘉公司开发制作的恋爱养成类和策略类系列游戏，最早于1996年9月27日登录SEGA Saturn电视游戏平台。<br>主系列<br>樱花大战1（1996年）<br>樱花大战2～望君珍重～（1998年）<br>樱花大战3～巴黎在燃烧吗～（2001年）<br>樱花大战4～恋爱吧 少女～（2002年）<br>樱花大战5（2006年）<br>新樱花大战（2019:PS4）<br>动画<br>樱花大战(电视动画)————《樱花大战》TV版动画，共25话。<br>樱花大战OVA樱华绚烂————《樱花大战》OVA第一部，1997年出，共4话<br>樱花大战OVA轰华绚烂————《樱花大战》OVA第二部，1999年出，共6话<br>樱花大战OVA神崎堇引退纪念『す・み・れ』————《樱花大战》OVA特别篇，2002年出，全1话<br>樱花大战OVA燃烧的巴黎————《樱花大战》OVA第三部，2003年出，共3话<br>樱花大战OVA崭新的新巴黎————《樱花大战》OVA第四部，2004年出，共3话<br>樱花大战OVA纽约————《樱花大战》OVA第五部，2007年出，共6话<br>新樱花大战 the Animation————《新樱花大战》游戏改编TV版动画，2020年<br>![图](https://img.moegirl.org.cn/common/thumb/d/dd/Sakura_taisan_all.jpg/250px-Sakura_taisan_all.jpg) | [萌娘百科](https://zh.moegirl.org.cn/樱花大战系列) |
-| megaman | 洛克人 |  |  |
 | my hero academia | 我的英雄学院 |  |  |
-| animal crossing | 动物之森 | 动物森友会（日版名：どうぶつの森，英文版名：Animal Crossing，又译作“动物之森”、“动物森林”）是任天堂情报开发本部开发并由任天堂发行的社交模拟游戏系列，游戏中玩家生活在一个由拟人动物居住的村庄，展开各种活动。系列以其开放性著称，并大量使用游戏机内置时钟和日历模拟真实时间。现今共有四款作品，分别为动物之森（N64平台，2004年移植到NGC）、欢迎来到动物之森（任天堂DS平台）、动物之森：城市人（Wii平台）、来吧！动物之森（3DS）。系列全球售出超过2400万套。 | [维基百科](https://zh.wikipedia.org/wiki/动物之森系列) (\*) |
 | ro-kyu-bu | 萝球社🏀 | ![萝球社](https://img.moegirl.org.cn/common/c/c1/Roukyubu.jpg) |  |
-| super mario brothers | 超级马力欧兄弟 |  |  |
 | non non biyori | 悠哉日常大王 | ![图](https://ehgt.org/59/0c/590c82282e840fcf1916ca9751ea6c6fab6fc918-2831485-1420-2015-jpg_l.jpg)![图](https://ehgt.org/a2/ab/a2ab7d0ee1a3b5904fd7aaddfc21196bde19ebd3-743337-2114-2995-jpg_l.jpg) |  |
 | yuruyuri | 摇曳百合 | 《摇曳百合》（日语：ゆるゆり）是Namori所作、一迅社出版的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/輕鬆百合) (\*) |
-| star wars | 星球大战 |  |  |
-| powerpuff girls z | 飞天小女警Z |  |  |
 | suite precure | 光之美少女：美乐天使 | 《光之美少女：美乐天使》（スイートプリキュア♪）是由东堂泉所制作的魔法少女动画作品，<br>“光之美少女系列”的第八作，属第六代光之美少女。于2011年2月6日开始于朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/suite_precure/) |
 | made in abyss | 来自深渊 | 《来自深渊》（日语：メイドインアビス，英语：MADE IN ABYSS）是奇幻题材的日本漫画作品，由つくしあきひと创作，并于竹书房旗下漫画网站《WEBコミックガンマ》上刊载。 | [维基百科](https://zh.wikipedia.org/wiki/來自深淵_%28漫畫%29) (\*) |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://ehgt.org/9d/86/9d86b0bd8abe756f7b07f95199ce1c81982dabda-74851-319-450-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/蘿黛的後宮玩具) |
 | dragon ball | 龙珠 |  |  |
 | ryuuou no oshigoto | 龙王的工作！ | 《龙王的工作！》（日语：りゅうおうのおしごと!）是白鸟士郎撰写，しらび绘制插画的日本轻小说作品。由SB Creative的GA文库发行，已发售8册。漫画版为こげたおこげ作画。 | [维基百科](https://zh.wikipedia.org/wiki/龍王的工作！) (\*) |
-| idol wars z | IDOL WARS Z |  |  |
-| harry potter | 哈利波特 | 《哈利波特》（英语：Harry Potter），英国作家J·K·罗琳的奇幻文学系列小说，描写主角哈利波特在霍格华兹7年学习生活中的冒险故事；该系列被翻译成75种语言，在超过两百个国家出版，所有版本的总销售量逾4～4亿5千万本（2013年7月），名列世界上最畅销小说之列，同时也是世界上印量第三高的出版物（仅次圣经和毛语录）。 |  |
 | pretty cure | 光之美少女 | 《光之美少女》系列（日语：プリキュアシリーズ，简称プリキュア）是由日本的朝日放送、东映动画（HDTV）和ADK共同制作的幼女向变身魔法少女动画系列，从2004年开始放送，并有漫画、游戏等衍生作品。<br>该系列面向的年龄层主要为幼女到初中女生，人称“国民级幼女番”。虽然是幼女向的魔法少女主题动画，却以独特的肉搏风格战斗著称，因此也吸引了一些青少年及以上观众的喜爱。<br>和同为东映旗下的特摄《超级战队系列》和《假面骑士系列》并称“东映御三家”，且这三大系列在周日的播放时段正好紧挨着，除此之外三大系列时常也会互相联动。<br>2018年2月1日，日本纪念日协会将2月1日（系列第一作的开播日期）定为“光之美少女日”。 | [HP](https://anime-precure.com/) |
 | accel world | 加速世界 | 人不如猪<br>![图](# "https://ehgt.org/c0/f1/c0f16dcec18c9aff466d801566d3b900701f14ad-1967836-2838-2000-jpg_l.jpg")![图](# "https://ehgt.org/be/36/be363662f5605eef0cab1e2b78125fcfc4f8393b-1719724-1704-2400-jpg_l.jpg") |  |
-| super robot wars | 超级机器人大战 |  |  |
 | bang dream | BanG Dream! | BanG Dream!（日语：BanG Dream!／バンドリ！）是以女子乐队为主题，由Bushiroad制作的跨媒体企划。企划讲述女子高中生的乐队活动，拥有多个女子乐队组合，并以电视动画、手机音乐游戏、漫画、轻小说、广播、声优参与的现实演唱会和舞台活动等形式展开。<br><br>![](https://img.moegirl.org.cn/common/0/04/Bangdreamgdp4th.jpg) | [维基百科](https://zh.wikipedia.org/wiki/BanG_Dream!) [萌娘百科](https://zh.moegirl.org.cn/BanG_Dream)! (\*\*) |
 | dragon quest | 勇者斗恶龙 |  |  |
-| angel beats | Angel Beats!❤ | 麻枝准原创动画第一部<br>![图](# "https://ehgt.org/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg")![图](https://ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg) |  |
-| monster hunter | 怪物猎人 |  |  |
+| angel beats | Angel Beats!❤ | <br>![图](# "https://ehgt.org/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg")![图](https://ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg) |  |
 | azumanga daioh | 阿滋漫画大王 |  |  |
 | futari wa pretty cure | 光之美少女 | 《光之美少女系列》的第一作，属第一代光之美少女。 | [维基百科](https://zh.wikipedia.org/wiki/光之美少女) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
-| overwatch | 守望先锋 | ![守望屁股](https://ehgt.org/07/96/07961652eaffd9de33eb0cdc769e1ba8842d44d4-6893424-3297-2458-jpg_250.jpg) |  |
 | yotsubato | 四叶妹妹！ | 《四叶妹妹！》（日语：よつばと!）是东清彦的日本漫画作品，于2003年3月在漫画杂志《月刊Comic电击大王》上连载。到2018年4月28日为止，单行本目前发行了14本。台湾角川已出版13册。 | [维基百科](https://zh.wikipedia.org/wiki/四葉妹妹！) (\*) |
-| samurai spirits | 侍魂 |  |  |
 | tsukihime | 月姬 | 《月姬》（日语：つきひめ）是日本同人社团TYPE-MOON在2000年推出的一款十八禁美少女游戏，平台为个人电脑的Windows操作系统。<br>![](https://s2.vndb.org/cv/52/2252.jpg) |  |
 | gegege no kitarou | 怪怪怪的鬼太郎 |  |  |
 | uma musume pretty derby | 赛马娘Pretty Derby🐎 | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司`g:cygames`制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。<br>哔哩哔哩代理国内官方译名为闪耀！优俊少女<br>![](https://img.moegirl.org.cn/common/a/a0/Umamusume_logo2.png) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby) (\*)<br>[萌娘百科](https://zh.moegirl.org.cn/赛马娘_Pretty_Derby)<br>[国内哔哩哔哩代理官方网站](https://game.bilibili.com/pd/h5/)<br>[国内哔哩哔哩代理游戏中心](https://app.biligame.com/page/detail_share.html?id=107117) |
 | tenchi muyo | 天地无用！ |  |  |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯🔎 | 《侦探歌剧 少女福尔摩斯》是由日本著名集换式卡牌游戏公司Bushiroad由2009年开始推出的跨媒体企划， 已于2019年正式完结。讲述了活跃着怪盗与侦探的近未来架空世界里的“侦探之都横滨”，目标成为真正的侦探的四位少女侦探组合Milky Holmes的故事。本企划以游戏为基础，在动画、小说、漫画、游戏、声优广播剧、原创综艺节目、媒体商业合作、声优演唱会方面均有建树，是Bushiroad第一代跨媒体企划的标志，对Bushiroad后续的跨媒体企划产生了深远的影响。<br><br>![图](https://ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/侦探歌剧_少女福尔摩斯) |
 | toheart2 | ToHeart2 | ![图](https://ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_l.jpg)![图](https://ehgt.org/e3/e8/e3e8326a98db36972b4b3e7f9a4043a567105a37-1216531-1024-1441-jpg_l.jpg) |  |
-| digimon tamers | 数码宝贝03驯兽师之王 |  |  |
-| alice in wonderland | 爱丽丝梦游仙境 |  |  |
-| phineas and ferb | 飞哥与小佛 |  | [百度百科](https://baike.baidu.com/item/飞哥与小佛) |
 | macross frontier | 超时空要塞F |  |  |
-| the legend of heroes | 英雄传说 |  |  |
 | shinryaku ika musume | 侵略！乌贼娘 |  |  |
-| kiniro mosaic | 黄金拼图 | Happy Day!<br>黄图×点兔，两大萝莉控天堂<br>![图](https://ehgt.org/5a/8f/5a8f63996f610842bb0aacf6fbb85fdd562af8e1-2129828-2680-3800-jpg_l.jpg)![图](https://ehgt.org/6c/f3/6cf307633a93741aae2b49d277d0246a6c443fbf-2197700-2461-3500-jpg_l.jpg) |  |
+| kiniro mosaic | 黄金拼图 | ![图](https://ehgt.org/5a/8f/5a8f63996f610842bb0aacf6fbb85fdd562af8e1-2129828-2680-3800-jpg_l.jpg)![图](https://ehgt.org/6c/f3/6cf307633a93741aae2b49d277d0246a6c443fbf-2197700-2461-3500-jpg_l.jpg) |  |
 | goblin slayer | 哥布林杀手 |  |  |
-| dead or alive | 死或生 | 生死格斗<br>![](# "https://ehgt.org/2e/ce/2ece300869bc9c5e67fc444a75940a4735402d75-3336657-1080-1920-png_l.jpg") |  |
-| hey arnold | 嘿，阿诺德！ |  |  |
-| final fantasy xiv | 最终幻想XIV |  |  |
 | yama no susume | 向山进发 | ![图](# "https://ehgt.org/b5/24/b524fac42683f3c8b7f35f018a56fa45566c434d-2077281-1504-2114-jpg_l.jpg")![图](# "https://ehgt.org/16/a4/16a494e4a42f1a183e12f6d33f4297d3dd42e3ff-3033012-1409-2000-jpg_l.jpg") |  |
 | mushoku tensei | 无职转生 | ![](https://s2.loli.net/2024/09/14/CqUlgKwTrbxBadk.jpg) |  |
 | galaxy angel | 银河天使 | 《银河天使》是日本Broccoli公司的一个跨媒体制作企划。这套作品正朝着动画、漫画、小说、游戏及角色商品的方向发展。 | [维基百科](https://zh.wikipedia.org/wiki/銀河天使) (\*) |
 | hentai ouji to warawanai neko | 变态王子与不笑猫 | ![图](https://ehgt.org/82/06/82060c2cdfdf6c01bd27b736e787820c8241ddf2-836991-2512-3600-jpg_l.jpg)![图](https://ehgt.org/c6/56/c65648abba02d253b9053ba6897355aa80f05add-1929355-2552-3600-jpg_l.jpg) |  |
-| blazblue | 苍翼默示录 | 唯美的格斗游戏系列，主要是游戏机平台 |  |
-| dog days | 犬勇者物语 |  |  |
-| xenogears | 异度装甲 | 《异度装甲》（日语：ゼノギアス，英语：Xenogears，港台译作“异域神兵”）是一部科幻角色扮演游戏，游戏由史克威尔（现史克威尔艾尼克斯）开发并发行于索尼PlayStation平台，游戏于1998年2月11日发布于日本，同年10月20日发布于北美，但游戏并未于欧洲发布。游戏在2003年由史克威尔艾尼克斯以Greatest Hits之名重新发布，游戏还在2008年6月25日和2011年2月22日分别发布于日本和北美的PlayStation Network。2004年7月10日由民间团体“XG中文版制作组”发布针对日文版的汉化程序，使中文玩家可以在全中文环境下进行游戏。 | [维基百科](https://zh.wikipedia.org/wiki/異域神兵) (\*) |
 | cardfight vanguard | 卡片战斗先导者 | 《卡片斗争!! 先导者》（日语：カードファイト!! ヴァンガード）是由BUSHIROAD公司开发的一款新集换式卡牌对战游戏，并设有专门的对战比赛卡牌大赛。这部作品的漫画版最先于2010年11月在《KEROKERO ACE》的2011年1月号上载，而动画版则于2011年1月8日至2012年3月24日在东京电视网及爱知电视台首播。同年4月4日在东京电视网再次播出，第二季卡片斗争先导者亚洲巡回赛篇于2012年4月8日在东京电视台首播。第二季开始后改为东京电视台制作。 |  |
 | honkai gakuen | 崩坏学园 | 《崩坏3》是中国大陆游戏开发商米哈游开发的的手机3D角色扮演动作游戏。崩坏学园系列的第3作，沿用了前作《崩坏学园2》角色。故事背景、剧情和世界观与《崩坏学园2》有所不同。讲述了女主角琪亚娜·卡斯兰娜和她的朋友们的冒险。为ACT类型游戏。 | [维基百科](https://zh.wikipedia.org/wiki/崩壞3rd) |
 | hilda | 希尔达 |  | [萌娘百科](https://zh.moegirl.org.cn/希尔达) |
